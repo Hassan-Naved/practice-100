@@ -1,0 +1,29 @@
+body {
+    background-image: url(https://wallpapercave.com/wp/X6PjOyY.png);
+}
+.picture{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}
+
+#pic-1{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}
+#pic-2{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}
+#pic-3{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}
+#pic-4{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}
